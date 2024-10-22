@@ -4,8 +4,8 @@
 
 <br/>
 
-SpookyRain - Halloween Themed Falling Images Effect 🎃👻
-SpookyRain is a simple JavaScript project that creates a fun and spooky falling image effect for Halloween-themed events. Images of pumpkins, ghosts, and other spooky elements cascade down the screen, mimicking a "rain" effect. Perfect for adding a bit of Halloween spirit to your website or project.
+CreepyCascade - Halloween Themed Falling Images Effect 🎃👻
+CreepyCascade is a simple JavaScript project that creates a fun and spooky falling image effect for Halloween-themed events. Images of pumpkins, ghosts, and other spooky elements cascade down the screen, mimicking a "rain" effect. Perfect for adding a bit of Halloween spirit to your website or project.
 
 🎯 Features
 <ul>
