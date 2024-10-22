@@ -1,4 +1,4 @@
-  const images = [
+const images = [
     "image/frankenstein-icon.png",
     "image/scream-icon.png",
     "image/grimacing-pumpkin-icon.png"
@@ -14,10 +14,14 @@ function createFallingImage() {
     img.style.height = size + "px";
 
     const left = Math.random() * (window.innerWidth - size);
+    img.style.position = 'absolute';
     img.style.left = left + "px";
+    img.style.top = '0px';
 
     img.className = "falling-image";
-    document.body.appendChild(img);
+    
+    const rainContainer = document.getElementById("rain-container");
+    rainContainer.appendChild(img);
 
     setTimeout(() => {
         img.style.top = window.innerHeight + "px";
