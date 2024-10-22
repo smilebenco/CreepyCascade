@@ -22,7 +22,7 @@ Clone the repository:
 <ol>
   <li><pre>git clone https://github.com/your-username/SpookyRain.git</pre></li>
   <li>Open the index.html file in your browser to see the effect in action.</li>
-  <li>To customize, edit the spookyRain.js file and replace the images or adjust the effect settings.</li>
+  <li>To customize, edit the script.js file and replace the images or adjust the effect settings.</li>
 </ol>
 
 🔧 Usage
@@ -30,12 +30,12 @@ Clone the repository:
   <li>HTML: The effect is triggered using a simple div container where the rain effect occurs.</li>
   <pre><code>&lt;div id="rain-container"&gt;&lt;/div&gt;</code></pre>
   <li>CSS: Styles are handled in the style.css file, where you can change background, positioning, etc.</li>
-  <li>JavaScript: The core rain effect logic is in spookyRain.js. It adds images to the container and animates them as they fall down the screen.</li>
+  <li>JavaScript: The core rain effect logic is in script.js. It adds images to the container and animates them as they fall down the screen.</li>
 </ul>
 
 🖼️ Customization
 <ul>
-  <li>Images: You can change the images by replacing the source URLs in the spookyRain.js file.</li>
+  <li>Images: You can change the images by replacing the source URLs in the script.js file.</li>
   <li>Speed & Density: Modify the rate at which images fall and their frequency for a more intense or subtle effect.</li>
 </ul>
 
