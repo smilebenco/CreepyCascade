@@ -1,0 +1,5 @@
+.falling-image {
+    position: absolute;
+    top: -100px; 
+    transition: top 2s linear; 
+}
