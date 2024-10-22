@@ -1,7 +1,7 @@
   const images = [
-    "image/png/2024-10/frankenstein-icon.png",
-    "image/png/2024-10/scream-icon.png",
-    "image/png/2024-10/grimacing-pumpkin-icon.png"
+    "image/frankenstein-icon.png",
+    "image/scream-icon.png",
+    "image/grimacing-pumpkin-icon.png"
 ];
 
 function createFallingImage() {
